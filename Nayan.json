@@ -8,7 +8,7 @@
   "approval": false,
   "saveState": false,
   "BOTNAME": "bilai-mama",
-  "PREFIX": "-",
+  "PREFIX": "/",
   "OPERATOR": [
     "100080803245939",
     "100080803245939"
