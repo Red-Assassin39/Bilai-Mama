@@ -1,6 +1,6 @@
 const chalk = require('chalk');
 module.exports.config = {
-    name: "jointo",
+    name: "join",
     version: "1.0.1",
     permission: 2,
     credits: "ryuko",
