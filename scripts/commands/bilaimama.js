@@ -14,7 +14,7 @@ module.exports.config = {
   
     version: "1.0.0",
   
-    hasPermssion: 0,
+    Permssion: 0,
   
     credits: "EMon-BHai",
   
