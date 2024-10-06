@@ -4,6 +4,7 @@ module.exports = {
     version: "1.0",
     hasPermission: 0,
     usePrefix: true,
+    prefix: true,
     credits: "Dipto",
     description: "Get user information and profile photo",
     category: "information",
