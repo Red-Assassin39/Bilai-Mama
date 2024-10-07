@@ -1,8 +1,8 @@
 module.exports.config = {
-  name: "rifad",
+  name: "rifadbot",
 	version: "1.0.0",
 	permission: 0,
-  prefix: false,
+  prefix: true,
 	credits: "Nayan",
 	description: "I am rifad better than ChatGPT and Bard",
 	category: "user",
