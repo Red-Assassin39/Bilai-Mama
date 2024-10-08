@@ -8,7 +8,7 @@ const baseApiUrl = async () => {
 
 module.exports = {
     config: {
-        name: "removebg",
+        name: "rbg",
         aliases: ["rbg"], 
         version: "1.0", 
         hasPermssion: 0,
